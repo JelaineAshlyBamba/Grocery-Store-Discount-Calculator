@@ -1,0 +1,14 @@
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\bin\Debug\net8.0\Grocery Store Discount Calculator.exe
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\bin\Debug\net8.0\Grocery Store Discount Calculator.deps.json
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\bin\Debug\net8.0\Grocery Store Discount Calculator.runtimeconfig.json
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\bin\Debug\net8.0\Grocery Store Discount Calculator.dll
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\bin\Debug\net8.0\Grocery Store Discount Calculator.pdb
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\Grocery Store Discount Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\Grocery Store Discount Calculator.AssemblyInfoInputs.cache
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\Grocery Store Discount Calculator.AssemblyInfo.cs
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\Grocery Store Discount Calculator.csproj.CoreCompileInputs.cache
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\Grocery Store Discount Calculator.dll
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\refint\Grocery Store Discount Calculator.dll
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\Grocery Store Discount Calculator.pdb
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\Grocery Store Discount Calculator.genruntimeconfig.cache
+C:\Users\klay kai\Documents\Grocery Store Discount Calculator\obj\Debug\net8.0\ref\Grocery Store Discount Calculator.dll
